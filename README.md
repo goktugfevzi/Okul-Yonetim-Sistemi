@@ -5,10 +5,10 @@ C# dili ile yazılmıştır.
 
 ------  Okul Yönetim Uygulamasi  -----
 
-1-Öğrenci Ekle
-2-Not Gir  (Metot ile giriş yapılacak)
-3-Öğrencinin ortalamasını gör    (Öğrenciye ait ortalama özelliği olacak, set özelliği olmayacak, get özelliği içinde hesaplanıp döndürülecek)
-4-Öğrencinin adresini gir    (Öğrencinin adresi farklı bir class olacak )
+1-Öğrenci Ekle<br>
+2-Not Gir  (Metot ile giriş yapılacak)<br>
+3-Öğrencinin ortalamasını gör    (Öğrenciye ait ortalama özelliği olacak, set özelliği olmayacak, get özelliği içinde hesaplanıp döndürülecek)<br>
+4-Öğrencinin adresini gir    (Öğrencinin adresi farklı bir class olacak )<br>
 5-Bütün Öğrencileri Listele
 6-Şubeye Göre Öğrencileri Listele
 7-Öğrencinin notlarını görüntüle (Derse göre sıralayıp listelenecek)
