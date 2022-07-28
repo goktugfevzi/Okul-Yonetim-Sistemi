@@ -1,8 +1,8 @@
 # Okul-Yonetim-Sistemi
-Öğrencileri listeler ile yöneten bir konsol uygulamasıdır.
-C# dili ile yazılmıştır.
+Öğrencileri listeler ile yöneten bir konsol uygulamasıdır.<br><br>
+C# dili ile yazılmıştır.<br>
 
-
+<br><br><br>
 ------  Okul Yönetim Uygulamasi  -----
 
 1-Öğrenci Ekle<br>
