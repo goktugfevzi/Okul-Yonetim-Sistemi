@@ -9,19 +9,19 @@
   },
   "packageFolders": {
     "C:\\Users\\esesl\\.nuget\\packages\\": {},
-    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\esesl\\Desktop\\OgrenciYonetimS\\OgrenciYonetimSistemiG012\\OgrenciYonetimSistemiG012.csproj",
+      "projectUniqueName": "C:\\Users\\esesl\\Masaüstü\\Okul-Yonetim-Sistemi-main\\Okul-Yonetim-Sistemi-main\\OgrenciYonetimSistemiG012\\OgrenciYonetimSistemiG012.csproj",
       "projectName": "OgrenciYonetimSistemiG012",
-      "projectPath": "C:\\Users\\esesl\\Desktop\\OgrenciYonetimS\\OgrenciYonetimSistemiG012\\OgrenciYonetimSistemiG012.csproj",
+      "projectPath": "C:\\Users\\esesl\\Masaüstü\\Okul-Yonetim-Sistemi-main\\Okul-Yonetim-Sistemi-main\\OgrenciYonetimSistemiG012\\OgrenciYonetimSistemiG012.csproj",
       "packagesPath": "C:\\Users\\esesl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\esesl\\Desktop\\OgrenciYonetimS\\OgrenciYonetimSistemiG012\\obj\\",
+      "outputPath": "C:\\Users\\esesl\\Masaüstü\\Okul-Yonetim-Sistemi-main\\Okul-Yonetim-Sistemi-main\\OgrenciYonetimSistemiG012\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\esesl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,16 +56,35 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.32, 3.1.32]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

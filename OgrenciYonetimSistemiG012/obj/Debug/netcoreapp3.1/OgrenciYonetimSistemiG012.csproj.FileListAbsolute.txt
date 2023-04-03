@@ -37,3 +37,17 @@ C:\Users\goktu\OneDrive\Masaüstü\OgrenciYonetimS\OgrenciYonetimSistemiG012\bin
 C:\Users\goktu\OneDrive\Masaüstü\OgrenciYonetimS\OgrenciYonetimSistemiG012\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiG012.dll
 C:\Users\goktu\OneDrive\Masaüstü\OgrenciYonetimS\OgrenciYonetimSistemiG012\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiG012.pdb
 C:\Users\goktu\OneDrive\Masaüstü\OgrenciYonetimS\OgrenciYonetimSistemiG012\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiG012.genruntimeconfig.cache
+C:\Users\esesl\Masaüstü\Okul-Yonetim-Sistemi-main\Okul-Yonetim-Sistemi-main\OgrenciYonetimSistemiG012\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiG012.exe
+C:\Users\esesl\Masaüstü\Okul-Yonetim-Sistemi-main\Okul-Yonetim-Sistemi-main\OgrenciYonetimSistemiG012\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiG012.deps.json
+C:\Users\esesl\Masaüstü\Okul-Yonetim-Sistemi-main\Okul-Yonetim-Sistemi-main\OgrenciYonetimSistemiG012\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiG012.runtimeconfig.json
+C:\Users\esesl\Masaüstü\Okul-Yonetim-Sistemi-main\Okul-Yonetim-Sistemi-main\OgrenciYonetimSistemiG012\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiG012.runtimeconfig.dev.json
+C:\Users\esesl\Masaüstü\Okul-Yonetim-Sistemi-main\Okul-Yonetim-Sistemi-main\OgrenciYonetimSistemiG012\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiG012.dll
+C:\Users\esesl\Masaüstü\Okul-Yonetim-Sistemi-main\Okul-Yonetim-Sistemi-main\OgrenciYonetimSistemiG012\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiG012.pdb
+C:\Users\esesl\Masaüstü\Okul-Yonetim-Sistemi-main\Okul-Yonetim-Sistemi-main\OgrenciYonetimSistemiG012\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiG012.csproj.AssemblyReference.cache
+C:\Users\esesl\Masaüstü\Okul-Yonetim-Sistemi-main\Okul-Yonetim-Sistemi-main\OgrenciYonetimSistemiG012\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiG012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esesl\Masaüstü\Okul-Yonetim-Sistemi-main\Okul-Yonetim-Sistemi-main\OgrenciYonetimSistemiG012\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiG012.AssemblyInfoInputs.cache
+C:\Users\esesl\Masaüstü\Okul-Yonetim-Sistemi-main\Okul-Yonetim-Sistemi-main\OgrenciYonetimSistemiG012\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiG012.AssemblyInfo.cs
+C:\Users\esesl\Masaüstü\Okul-Yonetim-Sistemi-main\Okul-Yonetim-Sistemi-main\OgrenciYonetimSistemiG012\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiG012.csproj.CoreCompileInputs.cache
+C:\Users\esesl\Masaüstü\Okul-Yonetim-Sistemi-main\Okul-Yonetim-Sistemi-main\OgrenciYonetimSistemiG012\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiG012.dll
+C:\Users\esesl\Masaüstü\Okul-Yonetim-Sistemi-main\Okul-Yonetim-Sistemi-main\OgrenciYonetimSistemiG012\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiG012.pdb
+C:\Users\esesl\Masaüstü\Okul-Yonetim-Sistemi-main\Okul-Yonetim-Sistemi-main\OgrenciYonetimSistemiG012\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiG012.genruntimeconfig.cache

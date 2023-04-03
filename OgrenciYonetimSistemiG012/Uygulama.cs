@@ -469,7 +469,7 @@ namespace OgrenciYonetimSistemiG012
         {
 
             Console.WriteLine("  Not Gir------------------------------------------------ -");
-            int no = KontrolluNoIste();
+            int no = KontrolsuzNoIste();
 
 
             bool kont2 = true;
@@ -479,7 +479,7 @@ namespace OgrenciYonetimSistemiG012
                 Console.WriteLine(" Türkçe(T)");
                 Console.WriteLine(" Matematik(M)");
                 Console.WriteLine(" Fen(F)");
-                Console.WriteLine(" Sosyal Bilgiler (B)");
+                Console.WriteLine(" Sosyal Bilgiler (S)");
 
                 string secim = Console.ReadLine().ToUpper();
 
@@ -608,10 +608,6 @@ namespace OgrenciYonetimSistemiG012
         //{
         //    liste = liste.OrderByDescending(r=>r)
         //}
-
-        //LİSTELEME
-        //ADRESLEsadfRE GÖRE SIRALAMA
-        //kldfaj   sadf2938
 
 
 

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "fmzDfxlt+lTKh1yHmsZlJTyyn2Tne8aJa4ceyZvvdRDWiNc/ALkascbRSbl4GADfqyFKkVRGWgAlkSJ3eE+5qg==",
+  "dgSpecHash": "0IWqEem+kDaGUo8UvVpseaoXMxfyssIQPCh0XbcXGnpaUjhfgnBrh29jXWdBjuKBHSqPPN3YgKvAtgXSmybEcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\esesl\\Desktop\\OgrenciYonetimS\\OgrenciYonetimSistemiG012\\OgrenciYonetimSistemiG012.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\esesl\\Masaüstü\\Okul-Yonetim-Sistemi-main\\Okul-Yonetim-Sistemi-main\\OgrenciYonetimSistemiG012\\OgrenciYonetimSistemiG012.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esesl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\esesl\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\esesl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\esesl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
